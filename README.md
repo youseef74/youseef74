@@ -1,76 +1,121 @@
-<!-- ======= GITHUB PROFILE README ======= -->
+💻 Yousef Kandil
+Node.js Backend Developer
+Crafting robust and scalable server-side solutions
 
-<!-- 🖼️ BANNER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/youseef74/youseef74/main/banner.png" alt="Yousef Kandil Banner" width="100%" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=youseef74&label=Profile%20Views&color=blue&style=flat" alt="Profile views" /> </p>
+🚀 About Me
+javascript
+const yousef = {
+  pronouns: "he" | "him",
+  code: ["JavaScript", "TypeScript", "C++"],
+  technologies: {
+    backend: {
+      frameworks: ["Express.js", "NestJS", "Fastify"],
+      databases: ["MongoDB", "MySQL", "Redis", "PostgreSQL"],
+      auth: ["JWT", "OAuth", "Passport.js", "bcrypt"]
+    },
+    devOps: ["Docker", "AWS", "CI/CD", "NGINX"],
+    tools: ["Git", "Postman", "Swagger", "Jest", "WebSocket"]
+  },
+  architecture: ["Microservices", "RESTful APIs", "MVC", "Clean Architecture"],
+  currentFocus: "Building scalable backend systems with TypeScript & Node.js",
+  funFact: "I enjoy debugging more than writing new code!"
+};
+🛠 Tech Stack
+Backend Development
+https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
+https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white
+https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white
 
-<h1 align="center">Hey 👋, I'm Yousef Kandil</h1>
-<h3 align="center">💻 Node.js Backend Developer | Crafting Scalable Server-Side Solutions</h3>
+Databases & ORM
+https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
+https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white
+https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white
 
----
+Tools & Platforms
+https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
+https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white
+https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white
 
-### 💫 About Me
-🔭 I’m currently working on a **social media app** using **Node.js, Express, TypeScript, and MongoDB**.  
-👯 I’m looking to collaborate on **backend projects** that use Node.js.  
-🤝 I’m looking for help with **system design and clean architecture** in large-scale backend projects.  
-🌱 I’m currently learning **NestJS, Docker, and advanced backend patterns**.  
-💬 Ask me about **APIs, authentication, and backend development** with Node.js.  
-⚡ Fun fact: *I love solving bugs more than writing new code!*
+Frontend & Others
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%252B%252B&logoColor=white
 
----
+📊 GitHub Analytics
+<div align="center">
+https://github-readme-stats.vercel.app/api?username=youseef74&theme=radical&hide_border=true&include_all_commits=true&count_private=true
+https://github-readme-streak-stats.herokuapp.com/?user=youseef74&theme=radical&hide_border=true
+https://github-readme-stats.vercel.app/api/top-langs/?username=youseef74&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact
 
-### 🌐 Connect With Me
-<p align="center">
-<a href="https://discord.gg/youseeef_74" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="https://facebook.com/youseeef74" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://instagram.com/youseeef_74" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/yousef-kandil-24ba262a6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://tiktok.com/@youseeef_74" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
-<a href="https://x.com/youseef_74" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="mailto:kandilyossef100@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+</div>
+🏗️ Featured Projects
+🔥 Social Media Platform
+Advanced backend system with real-time features
 
----
+bash
+Tech: Node.js · Express · TypeScript · MongoDB · Socket.io
+✅ Authentication & Authorization
+✅ Real-time messaging & notifications
+✅ File upload & media management
+✅ RESTful API design
 
-### 💻 Tech Stack
-<p align="center">
-<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/>
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
-<img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-</p>
+⚡ E-commerce API
+Scalable e-commerce backend solution
 
----
+bash
+Tech: NestJS · MySQL · Redis · JWT · Docker
+✅ Product & Order management
+✅ Payment integration
+✅ Caching & performance optimization
+✅ Microservices architecture
 
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=youseef74&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="160em"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=youseef74&theme=radical&hide_border=false" height="160em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youseef74&theme=radical&hide_border=false&layout=compact"/>
-</p>
+🚀 Task Management System
+Productivity application backend
 
----
+bash
+Tech: Node.js · Express · MongoDB · JWT
+✅ CRUD operations
+✅ User authentication
+✅ API documentation
+✅ Error handling
 
-### 🔝 Top Contributed Repos
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=youseef74&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
-</p>
+📈 Contribution Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=youseef74&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> </p>
+📫 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/yousef-kandil-24ba262a6/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:kandilyossef100@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://twitter.com/youseef_74" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> <a href="https://github.com/youseef74" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://discord.gg/youseeef_74" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> </a> </p>
+🎯 Currently Learning
+Advanced System Design
 
----
+Microservices Architecture
 
-<p align="center">
-<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=youseef74&icon=0&color=6" alt="Profile Visits"/></a>
-</p>
+Docker & Kubernetes
 
-<!-- Created with ❤️ by Yousef Kandil using GPRM (https://gprm.itsvg.in) -->
+AWS Cloud Services
+
+GraphQL & Apollo Server
+
+💡 Development Philosophy
+"First, solve the problem. Then, write the code." - John Johnson
+
+"Clean code always looks like it was written by someone who cares." - Robert C. Martin
+
+<p align="center"> <img src="https://raw.githubusercontent.com/youseef74/youseef74/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </p>
+<div align="center">
+⚡ Quick Stats
+https://komarev.com/ghpvc/?username=youseef74&color=blueviolet
+https://img.shields.io/github/followers/youseef74?style=social
+https://badges.pufler.dev/repos/youseef74
+
+</div>
+Last Updated: ${new Date().toLocaleDateString()}
+
+⭐️ From youseef74
