@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yousef Kandil</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Node.js+Backend+Developer;Clean+Code+Lover;Building+Scalable+APIs;Always+Learning+New+Tech!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Backend+Develope+👨‍💻r;Clean+Code+Lover;Building+Scalable+APIs;Always+Learning+New+Tech!"/>
 </h3>
 
 <p align="center">
@@ -9,14 +9,15 @@
 
 ---
 
-### 👨‍💻 About Me
+## 🧑‍💻 About Me  
 
-role: "Backend Developer 💻",
-    location: "Tanta Egypt 🇪🇬",
-    focus: ["Node.js", "Express.js", "NestJS", "TypeScript"],
-    currentlyLearning: "Microservices, System Design & AWS ☁️",
-    lookingToCollaborate: "Scalable Backend Projects or Open Source APIs 🚀",
-    funFact: "I enjoy debugging more than writing new code — it's like digital detective work 🕵️‍♂️"
+💼 **Backend Developer** from **Tanta, Egypt 🇪🇬**  
+🧠 Passionate about **clean architecture**, **system design**, and **building scalable APIs**.  
+🚀 Currently diving deep into **Microservices**, **TypeScript**, and **AWS Cloud**.  
+🤝 Open to collaborate on **Full-Stack Projects (Node.js + React)** or **Open Source APIs**.  
+💡 I love turning complex backend logic into smooth, maintainable systems.  
+🎯 Fun fact: *Debugging is my therapy — it’s like digital detective work 🕵️‍♂️*.  
+
 
 ---
 
