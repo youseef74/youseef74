@@ -37,11 +37,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=youseef74&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=youseef74&theme=tokyonight&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=youseef74&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Yousef's GitHub stats" />
+  <img height="165em" src="https://streak-stats.demolab.com?user=youseef74&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 </p>
 
----
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youseef74&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ### 🌍 Connect with Me
 
