@@ -9,18 +9,16 @@
 
 ---
 
-## 🚀 About Me
+### 👨‍💻 About Me
 
-```javascript
-const yousef = {
-    role: "Backend Developer 💻",
-    location: "Egypt 🇪🇬",
+role: "Backend Developer 💻",
+    location: "Tanta Egypt 🇪🇬",
     focus: ["Node.js", "Express.js", "NestJS", "TypeScript"],
     currentlyLearning: "Microservices, System Design & AWS ☁️",
     lookingToCollaborate: "Scalable Backend Projects or Open Source APIs 🚀",
     funFact: "I enjoy debugging more than writing new code — it's like digital detective work 🕵️‍♂️"
-};
 
+---
 
 ### 🛠 Tech Stack
 
@@ -48,6 +46,7 @@ const yousef = {
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youseef74&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+
 
 ### 🌍 Connect with Me
 
