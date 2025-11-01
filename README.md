@@ -1,27 +1,29 @@
-<h1 align="center">💻 Yousef Kandil</h1>
-<h3 align="center">Node.js Backend Developer</h3>
+<!-- ============================================ -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Yousef+Kandil;Node.js+Backend+Developer;Clean+Architecture+Enthusiast;Always+learning+new+things!"/>
+</h1>
 
 <p align="center">
-  <em>Crafting robust and scalable server-side solutions.</em>
+  <em>Crafting robust and scalable backend systems with Node.js & TypeScript.</em>
 </p>
 
 ---
 
-### 👋 About Me
+### 👨‍💻 About Me
 
-- 🔭 Currently working on **a social media backend system using Node.js, Express, and TypeScript.**  
-- 🌱 Learning **NestJS**, **Docker**, and **Advanced System Design**.  
-- 💬 Ask me about **APIs, authentication, and backend architecture.**  
+- 🔭 Currently working on **a social media backend system using Node.js, Express, and TypeScript**  
+- 🌱 Learning **NestJS**, **Docker**, and **Advanced System Design**  
+- 💬 Ask me about **APIs, Authentication, and Clean Architecture**  
 - ⚡ Fun fact: *I love debugging more than writing new code!*  
 
 ---
 
 ### 🛠 Tech Stack
 
-#### 🧠 Languages
+#### 💡 Languages
 `JavaScript` · `TypeScript` · `C++`
 
-#### ⚙️ Backend
+#### ⚙️ Backend Frameworks
 `Node.js` · `Express.js` · `NestJS` · `Fastify`
 
 #### 🗄️ Databases
@@ -35,33 +37,33 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=youseef74&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=youseef74&theme=github-dark&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=youseef74&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=youseef74&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### 🌍 Connect with Me
 
 <p align="center">
-  <a href="mailto:kandilyossef100@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yousef-kandil-24ba262a6/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/youseef74" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/youseef_74" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
+  <a href="mailto:kandilyossef100@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yousef-kandil-24ba262a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/youseef74"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://twitter.com/youseef_74"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
+
+---
+
+### 🐍 GitHub Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=youseef74&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=youseef74&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center"><em>"Clean code always looks like it was written by someone who cares."</em></p>
+<!-- ============================================ -->
