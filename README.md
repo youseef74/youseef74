@@ -1,20 +1,20 @@
-<!-- ============================================ -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Yousef+Kandil;Node.js+Backend+Developer;Clean+Architecture+Enthusiast;Always+learning+new+things!"/>
-</h1>
+<h1 align="center">Hi 👋, I'm Yousef Kandil</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Node.js+Backend+Developer;Clean+Code+Lover;Building+Scalable+APIs;Always+Learning+New+Tech!"/>
+</h3>
 
 <p align="center">
-  <em>Crafting robust and scalable backend systems with Node.js & TypeScript.</em>
+  💻 Crafting robust and scalable backend systems with Node.js & TypeScript.
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on **a social media backend system using Node.js, Express, and TypeScript**  
-- 🌱 Learning **NestJS**, **Docker**, and **Advanced System Design**  
+- 🔭 Currently working on **backend systems using Node.js, Express, and TypeScript**  
+- 🌱 Learning **NestJS**, **Docker**, and **System Design**  
 - 💬 Ask me about **APIs, Authentication, and Clean Architecture**  
-- ⚡ Fun fact: *I love debugging more than writing new code!*  
+- ⚡ Fun fact: *I enjoy debugging more than writing new code!*  
 
 ---
 
@@ -66,4 +66,3 @@
 </p>
 
 <p align="center"><em>"Clean code always looks like it was written by someone who cares."</em></p>
-<!-- ============================================ -->
