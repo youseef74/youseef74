@@ -27,13 +27,13 @@
 `JavaScript` · `TypeScript` · `C++`
 
 #### ⚙️ Backend Frameworks
-`Node.js` · `Express.js` · `NestJS` · `Fastify`
+`Node.js` · `Express.js` · `NestJS` 
 
 #### 🗄️ Databases
-`MongoDB` · `MySQL` · `PostgreSQL` · `Redis`
+`MongoDB` · `MySQL` 
 
 #### 🧰 Tools & Platforms
-`Docker` · `AWS` · `Git` · `Postman` · `Swagger` · `Socket.io`
+`Docker` · `AWS` · `Git` · `Postman` · `Socket.io`
 
 ---
 
