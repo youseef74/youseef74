@@ -9,14 +9,18 @@
 
 ---
 
-### 👨‍💻 About Me
+## 🚀 About Me
 
-- 🔭 Currently working on **backend systems using Node.js, Express, and TypeScript**  
-- 🌱 Learning **NestJS**, **Docker**, and **System Design**  
-- 💬 Ask me about **APIs, Authentication, and Clean Architecture**  
-- ⚡ Fun fact: *I enjoy debugging more than writing new code!*  
+```javascript
+const yousef = {
+    role: "Backend Developer 💻",
+    location: "Egypt 🇪🇬",
+    focus: ["Node.js", "Express.js", "NestJS", "TypeScript"],
+    currentlyLearning: "Microservices, System Design & AWS ☁️",
+    lookingToCollaborate: "Scalable Backend Projects or Open Source APIs 🚀",
+    funFact: "I enjoy debugging more than writing new code — it's like digital detective work 🕵️‍♂️"
+};
 
----
 
 ### 🛠 Tech Stack
 
