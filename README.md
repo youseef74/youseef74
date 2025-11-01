@@ -52,9 +52,9 @@
 ### 🌍 Connect with Me
 
 <p align="center">
-  <!-- Gmail -->
-  <a href="mailto:kandilyossef100@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <!-- Facebook -->
+  <a href="https://facebook.com/youseeef74">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 
   <!-- LinkedIn -->
@@ -77,6 +77,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
+
 
 
 ---
