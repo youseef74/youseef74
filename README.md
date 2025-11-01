@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yousef Kandil</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Backend+Develope+👨‍💻r;Clean+Code+Lover;Building+Scalable+APIs;Always+Learning+New+Tech!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Backend+Node+Js+Developer+👨‍💻;Clean+Code+Lover;Building+Scalable+APIs;Always+Learning+New+Tech!"/>
 </h3>
 
 <p align="center">
